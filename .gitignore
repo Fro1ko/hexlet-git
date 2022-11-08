@@ -1,5 +1,4 @@
-access INFO.md
-.md
+INFO.md
 
 # Ignore bundler config.
 /.bundle
